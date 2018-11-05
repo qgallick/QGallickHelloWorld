@@ -1,0 +1,8 @@
+Q:\SourceCode\HelloWorld\HelloLibrary\bin\Debug\netstandard2.0\HelloLibrary.deps.json
+Q:\SourceCode\HelloWorld\HelloLibrary\bin\Debug\netstandard2.0\HelloLibrary.dll
+Q:\SourceCode\HelloWorld\HelloLibrary\bin\Debug\netstandard2.0\HelloLibrary.pdb
+Q:\SourceCode\HelloWorld\HelloLibrary\obj\Debug\netstandard2.0\HelloLibrary.csproj.CoreCompileInputs.cache
+Q:\SourceCode\HelloWorld\HelloLibrary\obj\Debug\netstandard2.0\HelloLibrary.AssemblyInfoInputs.cache
+Q:\SourceCode\HelloWorld\HelloLibrary\obj\Debug\netstandard2.0\HelloLibrary.AssemblyInfo.cs
+Q:\SourceCode\HelloWorld\HelloLibrary\obj\Debug\netstandard2.0\HelloLibrary.dll
+Q:\SourceCode\HelloWorld\HelloLibrary\obj\Debug\netstandard2.0\HelloLibrary.pdb

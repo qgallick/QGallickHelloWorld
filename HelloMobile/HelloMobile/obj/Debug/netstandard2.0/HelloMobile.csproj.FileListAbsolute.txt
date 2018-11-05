@@ -1,0 +1,15 @@
+Q:\SourceCode\HelloWorld\HelloMobile\HelloMobile\bin\Debug\netstandard2.0\HelloMobile.deps.json
+Q:\SourceCode\HelloWorld\HelloMobile\HelloMobile\bin\Debug\netstandard2.0\HelloMobile.dll
+Q:\SourceCode\HelloWorld\HelloMobile\HelloMobile\bin\Debug\netstandard2.0\HelloMobile.pdb
+Q:\SourceCode\HelloWorld\HelloMobile\HelloMobile\bin\Debug\netstandard2.0\HelloLibrary.dll
+Q:\SourceCode\HelloWorld\HelloMobile\HelloMobile\bin\Debug\netstandard2.0\HelloLibrary.pdb
+Q:\SourceCode\HelloWorld\HelloMobile\HelloMobile\obj\Debug\netstandard2.0\HelloMobile.csprojAssemblyReference.cache
+Q:\SourceCode\HelloWorld\HelloMobile\HelloMobile\obj\Debug\netstandard2.0\App.xaml.g.cs
+Q:\SourceCode\HelloWorld\HelloMobile\HelloMobile\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+Q:\SourceCode\HelloWorld\HelloMobile\HelloMobile\obj\Debug\netstandard2.0\HelloMobile.csproj.CoreCompileInputs.cache
+Q:\SourceCode\HelloWorld\HelloMobile\HelloMobile\obj\Debug\netstandard2.0\HelloMobile.AssemblyInfoInputs.cache
+Q:\SourceCode\HelloWorld\HelloMobile\HelloMobile\obj\Debug\netstandard2.0\HelloMobile.AssemblyInfo.cs
+Q:\SourceCode\HelloWorld\HelloMobile\HelloMobile\obj\Debug\netstandard2.0\XamlC.stamp
+Q:\SourceCode\HelloWorld\HelloMobile\HelloMobile\obj\Debug\netstandard2.0\HelloMobile.csproj.CopyComplete
+Q:\SourceCode\HelloWorld\HelloMobile\HelloMobile\obj\Debug\netstandard2.0\HelloMobile.dll
+Q:\SourceCode\HelloWorld\HelloMobile\HelloMobile\obj\Debug\netstandard2.0\HelloMobile.pdb

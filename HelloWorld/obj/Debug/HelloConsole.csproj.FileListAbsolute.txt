@@ -1,0 +1,12 @@
+Q:\SourceCode\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+Q:\SourceCode\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+Q:\SourceCode\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+Q:\SourceCode\HelloWorld\HelloWorld\bin\Debug\EntityFramework.dll
+Q:\SourceCode\HelloWorld\HelloWorld\bin\Debug\EntityFramework.SqlServer.dll
+Q:\SourceCode\HelloWorld\HelloWorld\bin\Debug\EntityFramework.xml
+Q:\SourceCode\HelloWorld\HelloWorld\bin\Debug\EntityFramework.SqlServer.xml
+Q:\SourceCode\HelloWorld\HelloWorld\obj\Debug\HelloConsole.csprojAssemblyReference.cache
+Q:\SourceCode\HelloWorld\HelloWorld\obj\Debug\HelloConsole.csproj.CoreCompileInputs.cache
+Q:\SourceCode\HelloWorld\HelloWorld\obj\Debug\HelloConsole.csproj.CopyComplete
+Q:\SourceCode\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+Q:\SourceCode\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
